@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { LuMapPin } from "react-icons/lu";
 import { MdOutlineApps } from "react-icons/md";
-import AdventureCard from "@/components/AdventureCard";
 import {
   BsFacebook,
   BsInstagram,
